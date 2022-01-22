@@ -4,7 +4,7 @@ It was initially generate using Node.js and the "create-react-app" package, and 
 Javascript, React, HTML, and CSS.
 
 ### GETTING STARTED:
-First, navigate to the website: https://dreweiswerth.github.io/SortViz/
+First, navigate to the website: https://dreweiswerth.github.io/SortViz/ \
 There, the user may generate a new bar graph array by clicking the "New Array" button, or can see the
 sorting algorithms applied to the current bar graph by clicking one of the buttons labeled
 "Selection", "Insertion", "Quick", "Heap", or "Merge". Once the sorting animations have completed,

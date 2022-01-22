@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SortViz/static/css/main.6a54b5aa.css",
+    "main.js": "/SortViz/static/js/main.2c091d50.js",
+    "index.html": "/SortViz/index.html",
+    "main.6a54b5aa.css.map": "/SortViz/static/css/main.6a54b5aa.css.map",
+    "main.2c091d50.js.map": "/SortViz/static/js/main.2c091d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a54b5aa.css",
+    "static/js/main.2c091d50.js"
+  ]
+}

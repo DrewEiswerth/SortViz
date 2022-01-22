@@ -1,0 +1,47 @@
+.button-container {
+    box-sizing: border-box;
+    position: fixed;
+    background: black;
+    top: 0;
+    left: 0;
+    height: 65px;
+    width: 100%;
+}
+
+.logo {  /* original iS 170px x 597px */
+    vertical-align: top;
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right: min(23%, 350px);
+    height: 35px;
+    width: 123px;
+}
+
+.seperator {
+    background: transparent;
+    font-family: 'Calibri';
+    font-size: 30px;
+    margin-right: 12px;
+    vertical-align: bottom;
+    color: white;
+}
+
+.button {
+    margin-top: 18px;
+    margin-right: 12px;
+    vertical-align: top;
+    background: transparent;
+    font-family: 'Calibri';
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border-color: transparent;
+}
+
+.reset:hover {
+    color: rgb(40, 204, 53);
+}
+
+.reset:disabled {
+    color: rgb(165, 165, 165);
+}

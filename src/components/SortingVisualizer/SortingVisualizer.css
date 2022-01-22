@@ -1,0 +1,10 @@
+.bar-container {
+    white-space: nowrap;
+}
+
+.bar {
+    width: 6px;
+    background-color: rgb(70, 219, 102);
+    display: inline-block;
+    margin: 1px;
+}

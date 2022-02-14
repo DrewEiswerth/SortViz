@@ -30,7 +30,7 @@ function heapify(mainArray, arrayLength, i, animations) {
 
     let largest = i;         // first assumes root is largest
     const left = 2 * i + 1;  // finds left child index of root
-    const right = 2 *i + 2;  // finds right child index of root
+    const right = 2 * i + 2;  // finds right child index of root
 
     // checks if left child exists and is larger than root
     if (left < arrayLength && mainArray[i] < mainArray[left]) {
